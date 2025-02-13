@@ -84,4 +84,18 @@
 50. `netstat -tulnp` → Melihat port yang sedang digunakan  
 
 ---
-
+![Gambar WhatsApp 2025-02-13 pukul 22 14 26_27e13645](https://github.com/user-attachments/assets/cf070028-c870-4f14-97ce-12768526558c)
+---
+![Gambar WhatsApp 2025-02-13 pukul 22 14 26_93cae69c](https://github.com/user-attachments/assets/2bc20c64-3513-427a-9858-fa02a3460e4e)
+---
+![Gambar WhatsApp 2025-02-13 pukul 22 14 27_e1f5d710](https://github.com/user-attachments/assets/6683dda5-9639-4985-a2ef-738321666d7d)
+---
+![Gambar WhatsApp 2025-02-13 pukul 22 14 27_e7cdd83e](https://github.com/user-attachments/assets/9cb8af8b-6166-40d9-9a18-8471efacdfcc)
+---
+![Gambar WhatsApp 2025-02-13 pukul 22 14 27_b88fd165](https://github.com/user-attachments/assets/75f20887-ee28-4518-b9f5-daff514187d7)
+---
+![Gambar WhatsApp 2025-02-13 pukul 22 14 28_d8d70a32](https://github.com/user-attachments/assets/8f83f9e9-e2e5-4203-99a7-7dd10fb2b55e)
+---
+![Gambar WhatsApp 2025-02-13 pukul 22 14 28_334c76e2](https://github.com/user-attachments/assets/30b8fc36-40a6-49a1-bbc7-77f4e6b063af)
+---
+![Gambar WhatsApp 2025-02-13 pukul 22 14 28_1f2a0cf3](https://github.com/user-attachments/assets/30bc63e4-3177-4dbc-8186-3a043e5c093c)
